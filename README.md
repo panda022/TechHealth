@@ -2,7 +2,7 @@
 https://youtu.be/6RV8jzLT30s
 
 #Architecture Diagram
-![Alt text](image-1.png)
+![Alt text](image.png)
 
 # Project Setup Guide
 
