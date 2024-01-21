@@ -1,7 +1,7 @@
 # Youtube link of our project demo
 https://youtu.be/6RV8jzLT30s
 
-#Architecture Diagram
+# Architecture Diagram
 ![Alt text](image.png)
 
 # Project Setup Guide
