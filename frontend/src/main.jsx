@@ -24,10 +24,10 @@ const router = createBrowserRouter([
         path: "chatAI",
         element: <ChatAI />,
       },
-      {
-        path: "aboutUs",
-        element: <AboutUs />,
-      },
+      // {
+      //   path: "aboutUs",
+      //   element: <AboutUs />,
+      // },
     ],
   },
 ]);
