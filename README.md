@@ -1,4 +1,12 @@
+# Youtube link of our project demo
+https://youtu.be/6RV8jzLT30s
+
+#Architecture Diagram
+![Alt text](image-1.png)
+
 # Project Setup Guide
+
+
 
 This README provides instructions on how to set up and run the project on your local machine.
 
