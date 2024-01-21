@@ -1,0 +1,8 @@
+.root-back {
+    /* background-image: url('./backImage.PNG');  */
+    background-color: #E8DAEF; /* Fallback color */
+    background-size: cover; /* Cover the entire space */
+    background-position: center; /* Center the image */
+    height: 200vh; /* Example height, adjust as needed */
+    color: black; /* Text color */
+  }

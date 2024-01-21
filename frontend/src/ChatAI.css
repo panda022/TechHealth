@@ -1,0 +1,14 @@
+section p.user_msg {
+    background-color: #E7F3FE; /* Light Blue */
+    padding: 10px; /* Optional: for better spacing */
+    border-radius: 5px; /* Optional: for rounded corners */
+    /* Add any additional styling as needed */
+  }
+
+
+  section p.assist_msg {
+    background-color: #F0F0F0; /* Light Gray */
+    padding: 10px; /* Optional: for better spacing */
+    border-radius: 5px; /* Optional: for rounded corners */
+    /* Add any additional styling as needed */
+  }
